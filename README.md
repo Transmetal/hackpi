@@ -1,7 +1,5 @@
 # Plug and Play Portable Hacking Machine with RPi3
 
-[Article With Image](https://thehacktronian.blogspot.com/2018/08/SetupKaliLinuxOnRaspberryPi3.html)
-
 The Raspberry Pi is a low-cost, credit-card-sized ARM computer. Despite being a good bit less powerful than a laptop or desktop PC, its affordability makes it an excellent option for a tiny Linux system and it can do far more than act as a media hub.
 
 The Raspberry Pi provides a SD card slot for mass storage and will attempt to boot off that device when the board is powered on.
@@ -113,13 +111,3 @@ All Done.. !!!
 #### By default, the Kali Linux Raspberry Pi image has been streamlined with the minimum tools, similar to all the other ARM images. If you wish to upgrade the installation to a standard desktop installation, you can include the extra tools by installing the kali-linux-full metapackage..
 
 6. So Open Your Terminal and Type ```apt-get install kali-linux-full -y``` and hit Enter.
-
-That's It.. !!!
-
-if you face any question or any problem in this process feel free to ask.. :)
-
-and If You Like This Repo. Please Share This With Your Friends..
-
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
-
-Happy Hacking !!!
