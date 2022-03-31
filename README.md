@@ -42,7 +42,7 @@ So Let's Get Started..
 
 2. Open Terminal and move to Desktop by typing : ```cd /root/Desktop```
 
-3. Now Download HackPi by typing : ```git clone https://github.com/thehackingsage/hackpi.git``` 
+3. Now Download HackPi by typing : ```git clone https://github.com/Transmetal/hackpi``` 
 
 4. Connect SD-Card with your PC/Laptop using card reader, don't mount the drive.
 
